@@ -26,35 +26,35 @@ This project combines three years of government-published tourism statistics (20
 ### Page 1 — Tourism Overview
 Regional foreign arrivals across North Sumatra from 2022–2024, showing the sharp post-pandemic recovery, year-on-year growth rates, and seasonal demand cycles. Key metrics: total arrivals, average hotel occupancy, and average tourist stay.
 
-![Tourism Overview](screenshots/page1-tourism-overview.png)
+![Tourism Overview](screenshots/Page%201%20Tourism%20Overview.png)
 
 ---
 
 ### Page 2 — Property Performance
 Monthly occupancy rate, platform breakdown (Airbnb vs Booking.com vs offline), total bookings, average length of stay, and guest review score across 11 properties from June 2025 to May 2026.
 
-![Property Performance](screenshots/page2-property-performance.png)
+![Property Performance](screenshots/Page%202%20Property%20Performance.png)
 
 ---
 
 ### Page 3 — Market Context
 Benchmarking analysis placing the property portfolio's occupancy performance against the regional hotel occupancy rate (BPS Toba Regency). Regional occupancy peaked at ~57% in September 2024. The property portfolio mirrors the same seasonal pattern in 2025–2026 — with July–August peaks in per-unit occupancy — suggesting strong alignment with regional demand cycles despite operating at smaller scale.
 
-![Market Context](screenshots/page3-market-context.png)
 
+![Market Context](screenshots/Page%203%20Market%20Context.png)
 ---
 
 ### Page 4 — Forecast
 Tourism arrival forecast for 2025–2027 using Power BI's built-in exponential smoothing model (95% confidence interval), built on 36 months of monthly BPS data. North Sumatra foreign arrivals are projected to continue growing, supported by Indonesia's national "10 New Balis" tourism development programme of which Lake Toba is a designated priority destination.
 
-![Forecast](screenshots/page4-forecast.png)
+![Forecast](screenshots/Page%204%20Forecast.png)
 
 ---
 
 ### Page 5 — Guest Nationalities
 Geographic map and monthly bar chart showing international vs domestic guest mix across the portfolio from December 2025 to May 2026. Covers guest origin breakdown by country and the shift in international share across peak and off-peak months.
 
-![Guest Nationalities](screenshots/page5-guest-nationalities.png)
+![Guest Nationalities](screenshots/Page%205%20Guest%20Nationalities.png)
 
 ---
 
